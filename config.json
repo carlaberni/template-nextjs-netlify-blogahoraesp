@@ -1,17 +1,11 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://ahoraespanol.netlify.app",
+  "site_title": "Ahora Español",
+  "site_description": "Clases de Español en Argentina!",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Castellano",
+    "Español Argentino",
+    "Estudiar en Argentina"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
